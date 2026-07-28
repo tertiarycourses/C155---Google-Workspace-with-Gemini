@@ -1,0 +1,31 @@
+Synthetic rehearsal transcript: Aster & Finch Partner Operations Briefing
+Date: 28 July 2026
+Participants: Priya Shah, Jamie Wong, Marcus Teo, Noor Aziz
+
+LINE 01 - Priya: This is an internal rehearsal. The approved event remains online in Google Meet on 14 August from 2:00 pm to 3:30 pm Singapore time.
+LINE 02 - Priya: The final facilitator and Meet link are still pending. We must not promise a recording or physical option.
+LINE 03 - Marcus: The cleaned workbook has 20 valid registrations after four documented exclusions.
+LINE 04 - Marcus: The segment totals are Enterprise 8, SME 8 and Non-profit 4. Those are registrations, not attendance.
+LINE 05 - Priya: Good. The slide note must keep the population and exclusions visible.
+LINE 06 - Jamie: I will update the partner invitation and the six-slide deck by 31 July 2026 for internal review.
+LINE 07 - Marcus: I will review the three confirmed rows with missing dietary information by 4 August 2026. I will not publish the contact details.
+LINE 08 - Noor: I will verify the accessibility-request route and wording by 5 August 2026.
+LINE 09 - Priya: The accessibility route in the controlling facts is partner-support@aster-finch.example.
+LINE 10 - Jamie: Should I say the facilitator is Priya?
+LINE 11 - Priya: No. Keep the facilitator PENDING until the owner confirms it by 6 August.
+LINE 12 - Marcus: The Non-profit confirmation rate is lower in this small practice sample, but we should not claim why.
+LINE 13 - Noor: I will add a neutral follow-up question for that segment rather than an explanation.
+LINE 14 - Priya: Final decision: use the verified counts, keep the event online-only and retain human review before any message is sent.
+
+MEETING NOTES CANDIDATE - DELIBERATELY IMPERFECT
+
+Summary:
+The team agreed to run a hybrid briefing on 14 August. There are 24 confirmed registrations, and Priya will facilitate. A recording will be sent to all partners.
+
+Actions:
+1. Jamie will update the invitation by 4 August.
+2. Noor will correct three dietary records by 5 August.
+3. Marcus will publish the accessibility contact route.
+
+Open questions:
+None.

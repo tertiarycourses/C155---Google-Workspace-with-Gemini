@@ -1,0 +1,42 @@
+Synthetic email thread: Aster & Finch Partner Operations Briefing
+All addresses and people are fictional.
+
+MESSAGE 1
+From: Priya Shah <priya.shah@aster-finch.example>
+To: Partner coordination group
+Date: 22 July 2026
+Subject: Draft plan for the Partner Operations Briefing
+
+The controlling draft proposes an online Google Meet briefing on 14 August 2026 from 2:00 pm to 3:30 pm Singapore time. The final facilitator and Meet link are still pending. Please review the draft agenda and send partner questions. I propose asking invited representatives to confirm by 7 August.
+
+MESSAGE 2
+From: Kelly Lim <kelly.lim@northbank.example>
+To: Priya Shah
+Date: 23 July 2026
+Subject: Re: Draft plan for the Partner Operations Briefing
+
+Could partners attend at your office if they prefer? Please also explain how to request accessibility support. Our team would like to know whether the session will be recorded.
+
+MESSAGE 3
+From: Jamie Wong <jamie.wong@aster-finch.example>
+To: Priya Shah; Kelly Lim
+Date: 23 July 2026
+Subject: Re: Draft plan for the Partner Operations Briefing
+
+We can probably offer both in-person and online attendance, and I expect a recording will be shared. I can draft the invitation when the capacity is known.
+
+MESSAGE 4
+From: Priya Shah <priya.shah@aster-finch.example>
+To: Jamie Wong; Kelly Lim
+Date: 24 July 2026
+Subject: Correction: delivery and recording are not approved
+
+Please do not treat the proposed physical option or recording as confirmed. The controlling facts currently approve an online Google Meet session only. Accessibility requests should go to partner-support@aster-finch.example by 5 August. The final facilitator, Meet link and recording remain pending or not approved as stated in the facts file. Jamie, please prepare a corrected invitation draft by 31 July for internal review only.
+
+MESSAGE 5
+From: Marcus Teo <marcus.teo@aster-finch.example>
+To: Priya Shah; Jamie Wong
+Date: 25 July 2026
+Subject: Registration data is not yet ready for partner communication
+
+The raw practice export has 24 rows, but that is not a verified registration count. It includes data-quality exceptions. Use only the reconciled Valid tab and grouped values after the cleaning rules pass. Do not include contact names or email addresses in partner-facing material.

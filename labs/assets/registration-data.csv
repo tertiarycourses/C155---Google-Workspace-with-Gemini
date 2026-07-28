@@ -1,0 +1,25 @@
+Registration_ID,Organisation,Segment,Contact_Name,Email,Status,Seats,Dietary,Country,Submitted_Date
+AF-001,Meridian Labs,SME,Aisha Rahman,aisha@meridian.example,Confirmed,2,Vegetarian,Singapore,2026-07-20
+AF-002,Northbank Studio, Small Business ,Daniel Koh,daniel@northbank.example,confirm,1,None,Singapore,2026-07-20
+AF-003,Signal Forge,sme,Mei Lin,mei@signalforge.example,Waitlist,2,Halal,Singapore,2026-07-21
+AF-004,Blue Orchard,SME,Lucas Tan,lucas@blueorchard.example,confirmed,1,,Singapore,2026-07-21
+AF-005,Harbour Works,Small Business,Farah Noor,farah@harbourworks.example,cancelled,2,None,Malaysia,2026-07-21
+AF-006,Pine and Co,SME,Liam Ong,liam.pine.example,confirmed,1,None,Singapore,2026-07-22
+AF-007,Kepler Retail,sme,Sara Lim,sara@kepler.example,confirmed,3,Halal,Singapore,2026-07-22
+AF-008,Amber Goods,SME,Jonah Lee,jonah@amber.example,Waitlisted,1,None,Singapore,2026-07-22
+AF-009,Fieldnote Labs,Small Business,Nisha Rao,nisha@fieldnote.example,Confirmed,2,Vegetarian,Singapore,2026-07-22
+AF-010,Atlas Systems,Enterprise,Ethan Goh,ethan@atlas.example,Confirmed,4,None,Singapore,2026-07-23
+AF-011,Vertex Cloud,enterprise,Priya Menon,priya@vertex.example,confirmed,2,Halal,Singapore,2026-07-23
+AF-012,Halcyon Group,Enterprise,Marcus Teo,marcus@halcyon.example,waitlist,3,None,Singapore,2026-07-23
+AF-013,Ion Transit,Enterprise,Sofia Ng,sofia@ion.example,Confirmed,1,,Singapore,2026-07-23
+AF-014,Cobalt Advisory,enterprise,Ravi Shah,ravi@cobalt.example,Cancelled,2,None,Singapore,2026-07-24
+AF-015,Lucent Health,Enterprise,Noor Aziz,noor@lucent.example,confirm,2,Halal,Singapore,2026-07-24
+AF-016,Redbridge Tech,Enterprise,Jamie Wong,jamie@redbridge.example,Waitlisted,1,None,Singapore,2026-07-24
+AF-017,Greenway Trust,Non-profit,Hana Ali,hana@greenway.example,Confirmed,2,Vegetarian,Singapore,2026-07-24
+AF-018,Civic Bridge,nonprofit,Omar Low,omar@civicbridge.example,waitlist,1,None,Singapore,2026-07-25
+AF-019,Public Link,Public,Chloe Tay,chloe@publiclink.example,Confirmed,2,Halal,Singapore,2026-07-25
+AF-020,Community Loom,Non-profit,Isaac Yeo,isaac@communityloom.example,Cancelled,1,None,Singapore,2026-07-25
+AF-021,Small Steps,SME,Maya Chen,maya@smallsteps.example,Pending,2,Vegetarian,Singapore,2026-07-25
+AF-022,Bright Futures,non-profit,Leon Ho,leon@brightfutures.example,confirmed,2,,Singapore,2026-07-26
+AF-023,Pacific Grid,Enterprise,Rina Das,rina@pacificgrid.example,Confirmed,3,Halal,Singapore,2026-07-26
+AF-010,Atlas Systems,Enterprise,Ethan Goh,ethan@atlas.example,Confirmed,4,None,Singapore,2026-07-27
